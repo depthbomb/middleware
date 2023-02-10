@@ -1,0 +1,20 @@
+{
+	"compilerOptions": {
+		"module": "commonjs",
+		"declaration": true,
+		"esModuleInterop": true,
+		"moduleResolution": "nodenext",
+		"allowSyntheticDefaultImports": true,
+		"target": "ESNext",
+		"outDir": "./dist",
+		"baseUrl": "./",
+		"skipLibCheck": true,
+		"strictNullChecks": false,
+		"noImplicitAny": true,
+		"inlineSourceMap": true,
+		"forceConsistentCasingInFileNames": true,
+		"noFallthroughCasesInSwitch": true
+	},
+	"include": ["src/*"],
+	"exclude": ["dist/*"]
+}
