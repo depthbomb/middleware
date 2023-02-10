@@ -1,6 +1,6 @@
 {
 	"name": "@depthbomb/middleware",
-	"version": "0.1.0",
+	"version": "1.0.0",
 	"author": "depthbomb",
 	"description": "A collection of common Koa middleware",
 	"license": "MIT",
